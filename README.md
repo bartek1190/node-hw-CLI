@@ -2,19 +2,19 @@ The provided script is a simple command-line application written in JavaScript u
 
 List Contacts:
 
-![Alt text](action-list.png)
+![Alt text](images/action-list.png)
 
 Get Contact by ID:
 
-![Alt text](action-get.png)
+![Alt text](images/action-get.png)
 
 Add New Contact:
 
-![Alt text](action-add.png)
+![Alt text](images/action-add.png)
 
 Remove Contact by ID:
 
-![Alt text](action-remove.png)
+![Alt text](images/action-remove.png)
 
 For each command, you can use the corresponding options:
 
